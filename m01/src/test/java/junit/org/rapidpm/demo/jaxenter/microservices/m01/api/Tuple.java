@@ -32,5 +32,4 @@ public class Tuple<I,O> {
 
   public Optional<O> output(){return output;}
 
-
 }

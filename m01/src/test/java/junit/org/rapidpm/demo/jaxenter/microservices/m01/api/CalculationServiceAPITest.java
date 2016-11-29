@@ -47,8 +47,6 @@ public abstract class CalculationServiceAPITest {
 
   protected abstract Supplier<CalculationService> createSupplier();
 
-  //all tests together
-
   @Test
   public void apiTest001() throws Exception {
     equals.apply(
